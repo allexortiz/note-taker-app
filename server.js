@@ -9,10 +9,13 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// Serve static files from the 'public' directory
 app.use(express.static('public'));
 
+// Use the defined routes
 app.use(routes);
 
+// Start the server
 app.listen(PORT, () =>
-  console.log(`App listening at http://localhost:${PORT}`)
+    console.log(`App listening at http://localhost:${PORT}`)
 );
