@@ -41,8 +41,8 @@ This application utilizes:
 5. Heroku
 
 ## Links
-- [GitHub-Repository](https://github.com/allexortiz/note-taker-app)
-- [Heroku-Link]
+- [GitHub Repository](https://github.com/allexortiz/note-taker-app)
+- [Heroku Link]
 
 
 ## Screenshots
@@ -58,6 +58,7 @@ This application utilizes:
 
 ## Credits
 - Instructor - Tyler Calvert
+- TA - Dustin Burns
 - Tutor - Dennis Itua
 
 ## Questions
