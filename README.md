@@ -46,7 +46,7 @@ This application utilizes:
 
 ## Links
 - [GitHub Repository](https://github.com/allexortiz/note-taker-app)
-- [Heroku Link]
+- [Heroku Link](https://allex-note-taker-ffcc6564040d.herokuapp.com/)
 
 
 ## Screenshots
